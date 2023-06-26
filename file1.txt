@@ -2,7 +2,4 @@ This is first  change
 adding 1 line
 adding one more line
 adding a line after creating new branchgit
-
 adding a new line
-
-adiing another line
